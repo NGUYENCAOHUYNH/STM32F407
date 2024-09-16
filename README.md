@@ -9,6 +9,7 @@ I'm Huynh from Vietnam, and I focusing on Embedded (C/C++, Linux)
 * Keil C
 * Visual Studio Code
 * Eclipse IDE
+* Altium Designer
 ### Operating System
 * FreeRTOS
 * Linux
@@ -52,8 +53,7 @@ I'm Huynh from Vietnam, and I focusing on Embedded (C/C++, Linux)
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <div align="center"> 
-<p>"Enjoy it while it lasts"<p>
-<p>"Tận hưởng nó trong khi nó đang diễn ra"<p>
+<p>"Có làm thì mới có ăn"<p>
 </div>
 
 <br>
